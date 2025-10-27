@@ -8,3 +8,8 @@ Accuracy Achieved: 100% data accuracy — verified with API source readings and 
 Output: Developed a Power BI dashboard displaying visual insights for four cities. Generated comparative graphs and performance indicators for weather conditions.
 
 Key Insights: Clear visualization of temperature trends across regions. Easy comparison of daily humidity and weather patterns. Actionable insights for planning, travel, and data forecasting.
+
+figma background
+<img width="1920" height="1032" alt="figma background" src="https://github.com/user-attachments/assets/0498ecaf-6bb9-4025-a219-dbd2b1631266" />
+
+
