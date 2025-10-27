@@ -15,4 +15,21 @@ figma background
 powerbi - data modeling
 <img width="1920" height="994" alt="data modeling" src="https://github.com/user-attachments/assets/6069e519-40e0-4927-8668-b38bd7734a9e" />
 
+powerBI project:
+
+guwahati weather
+<img width="1920" height="983" alt="guwahati" src="https://github.com/user-attachments/assets/72d1232c-4e01-4cbd-89e5-296d2d839741" />
+
+hyderabad weather
+<img width="1920" height="995" alt="hyderabad" src="https://github.com/user-attachments/assets/940f297b-81b0-43f0-a345-7aca7bb8a361" />
+
+jaipur weather
+<img width="1920" height="990" alt="jaipur" src="https://github.com/user-attachments/assets/e940e51f-3301-4bd0-823f-6f43b2e49706" />
+
+new delhi weather
+<img width="1920" height="993" alt="new delhi" src="https://github.com/user-attachments/assets/e3430758-3c1f-49a6-a8d3-e4850aee5bad" />
+
+
+
+
 
