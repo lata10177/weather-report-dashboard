@@ -12,4 +12,7 @@ Key Insights: Clear visualization of temperature trends across regions. Easy com
 figma background
 <img width="1920" height="1032" alt="figma background" src="https://github.com/user-attachments/assets/0498ecaf-6bb9-4025-a219-dbd2b1631266" />
 
+powerbi - data modeling
+<img width="1920" height="994" alt="data modeling" src="https://github.com/user-attachments/assets/6069e519-40e0-4927-8668-b38bd7734a9e" />
+
 
